@@ -6,7 +6,7 @@ A sleek, responsive, and animated personal portfolio built with **React**, **Vit
 
 ## 📌 Live Demo
 
-👉 [View Live Website](https://your-vercel-deployment-url.vercel.app)  
+👉 [View Live Website]([https://your-vercel-deployment-url.vercel.app](https://portfolio-oshana-kavishan.vercel.app/))  
 🔗 [Download My CV](./public/my-cv.pdf)
 
 ---
