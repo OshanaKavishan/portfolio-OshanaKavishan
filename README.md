@@ -2,7 +2,7 @@
 
 A sleek, responsive, and animated personal portfolio built with **React**, **Vite**, and **Tailwind CSS**. It showcases my skills, projects, experience, and includes a contact form and dark mode toggle.
 
-![Portfolio Screenshot](screenshot/home.png)
+![Portfolio Screenshot](screenshot/home2.png)
 
 ## 📌 Live Demo
 🚀 Check out the live app here:  
