@@ -212,7 +212,7 @@ const Home: React.FC = () => {
         {/* Enhanced Buttons */}
         <div className="flex flex-col sm:flex-row gap-6 justify-center mb-12">
           <a
-            href="/my-cv.pdf"
+            href="/OshanaKavishanCV.pdf"
             download="OshanaKavishan_CV.pdf"
             className="group relative px-8 py-4 bg-gradient-to-r from-purple-600 to-pink-600 rounded-2xl font-semibold overflow-hidden hover:shadow-2xl hover:shadow-purple-500/25 transition-all duration-300 hover:scale-105 border border-purple-500/30"
           >
